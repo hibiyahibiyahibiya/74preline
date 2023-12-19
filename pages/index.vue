@@ -1,15 +1,27 @@
 <template>
-    <div class="mx-auto w-1/2">
-      <div class="bg-blue-500 w-1/2">kegoakgoeogajoegj</div>
-      <button type="button" class="py-3 px-4 inline-flex items-center gap-x-2 text-sm font-semibold rounded-lg border border-transparent bg-blue-600 text-white hover:bg-blue-700 disabled:opacity-50 disabled:pointer-events-none dark:focus:outline-none dark:focus:ring-1 dark:focus:ring-gray-600">aeb</button>
-        <button type="button" class="py-3 px-4 inline-flex items-center gap-x-2 text-sm font-semibold rounded-lg border border-transparent bg-blue-600 text-white hover:bg-blue-700 disabled:opacity-50 disabled:pointer-events-none dark:focus:outline-none dark:focus:ring-1 dark:focus:ring-gray-600">cda</button>
-          <button type="button" class="py-3 px-4 inline-flex items-center gap-x-2 text-sm font-semibold rounded-lg border border-transparent bg-blue-600 text-white hover:bg-blue-700 disabled:opacity-50 disabled:pointer-events-none dark:focus:outline-none dark:focus:ring-1 dark:focus:ring-gray-600">jyf</button>
-        <button type="button" class="py-3 px-4 inline-flex items-center gap-x-2 text-sm font-semibold rounded-lg border border-transparent bg-blue-600 text-white hover:bg-blue-700 disabled:opacity-50 disabled:pointer-events-none dark:focus:outline-none dark:focus:ring-1 dark:focus:ring-gray-600">ffg</button>
-        <button type="button" class="py-3 px-4 inline-flex items-center gap-x-2 text-sm font-semibold rounded-lg border border-transparent bg-blue-600 text-white hover:bg-blue-700 disabled:opacity-50 disabled:pointer-events-none dark:focus:outline-none dark:focus:ring-1 dark:focus:ring-gray-600">psal</button>
-        aaasaassssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssfafaffffffffffffffffffffffegoejgj
-        <div class="columns-3">
-        <button type="button" class="py-3 px-4 inline-flex items-center gap-x-2 text-sm font-semibold rounded-lg border border-transparent bg-blue-600 text-white hover:bg-blue-700 disabled:opacity-50 disabled:pointer-events-none dark:focus:outline-none dark:focus:ring-1 dark:focus:ring-gray-600">
-  Lorem Ipsum.
-</button></div>
-</div>
+  <div class="mx-auto w-1/2">
+      <div class="grid grid-cols-3">
+        <div>
+          <img src="/favicon.ico" />
+          <p>p.t.</p>
+        </div>
+        <div class="col-span-2 text-center flex flex-col">
+          <span class="flex-auto"></span>
+          <span class="text-3xl font-bold flex-none font-mono">hibiyahibiyahibiya</span>
+          <span class="text-xl font-bold flex-auto font-mono">(hihihib)</span>
+        </div>
+      </div>
+
+    <div>
+      <p>github links etc.</p>
+    </div>
+    <div >
+      <p class="text-5xl font-serif">Works</p>
+      <p class="py-12 text-center text-3xl">ここには花が・・・咲く</p>
+    </div>
+    <div>
+      <p class="text-5xl">Articles</p>
+      <p class="py-12 text-center text-3xl">ここには花が・・・咲く</p>
+    </div>
+  </div>
 </template>
